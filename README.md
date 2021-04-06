@@ -5,3 +5,4 @@ In this study, we applied (CA) Correspondence Analysis (CA) to the news on Covid
 * Correspondence Analysis For NLP
 * LDA
 
+I shared the small portion of the news , if you need entire set, please contact to Pasko Bilic <pasko@irmo.hr> or me savasy@gmail.com
